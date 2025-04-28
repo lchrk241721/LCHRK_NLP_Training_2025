@@ -44,7 +44,7 @@ pip install tweepy
 ```
 **Tweepy** works only with V2 API(paid version) of X platform. So, check it once before running this tutorial.
 
-#### Reading PDF file in Python
+#### Reading PDF file
 ##### Required Libraries
 **PyPDF2**
 ```python
@@ -52,3 +52,11 @@ pip install PyPDF2
 ```
 ###### Sample Output
 ![Read PDF File Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/read-pdf-file-output.png)
+
+#### Reading Word Document
+##### Required Libraries
+**docx**
+```python
+~~pip install docx~~
+pip install python-docx
+```
