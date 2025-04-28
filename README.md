@@ -73,12 +73,12 @@ pip install json
 
 #### Reading HTML Page & Parsing
 ##### Required Libraries
-****
+**BS4**
 ```python
-
+pip install bs4
 ```
 ###### Sample Output
-![Read HTML Page Output Sample]()
+![Read HTML Page Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/read-html-page-parse-output.png)
 
 #### Regular Expressions
 ##### Required Libraries
