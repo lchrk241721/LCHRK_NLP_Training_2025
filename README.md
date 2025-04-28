@@ -91,7 +91,7 @@ pip install re
 
 #### Regular Expressions -> Extract Data From EBook
 ###### Sample Output
-![RegEx Extract Data From Ebook Output Sample]()
+![RegEx Extract Data From Ebook Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/regex-extract-data-from-ebook-output.png)
 
 #### String Handling
 ##### Required Libraries
