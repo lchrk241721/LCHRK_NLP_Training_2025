@@ -70,3 +70,39 @@ pip install json
 ```
 ###### Sample Output
 ![Read JSON Object Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/read-json-output.png)
+
+#### Reading HTML Page & Parsing
+##### Required Libraries
+****
+```python
+
+```
+###### Sample Output
+![Read HTML Page Output Sample]()
+
+#### Regular Expressions
+##### Required Libraries
+****
+```python
+
+```
+###### Sample Output
+![Regular Expressions Output Sample]()
+
+#### String Handling
+##### Required Libraries
+****
+```python
+
+```
+###### Sample Output
+![String Handling Output Sample]()
+
+#### Web Scraping
+##### Required Libraries
+****
+```python
+
+```
+###### Sample Output
+![Web Scraping Output Sample]()
