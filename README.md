@@ -33,3 +33,7 @@ parsing, and analyzing text in various languages.
 ```python
 pip install CoreNLP
 ```
+
+## Extracting The Data
+1 Text data collection using APIs
+2 Reading PDF file in Python
