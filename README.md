@@ -45,3 +45,8 @@ pip install tweepy
 **Tweepy** works only with V2 API(paid version) of X platform. So, check it once before running this tutorial.
 
 #### Reading PDF file in Python
+##### Required Libraries
+**PyPDF2**
+```python
+pip install PyPDF2
+```
