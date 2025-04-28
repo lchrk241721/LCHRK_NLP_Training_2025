@@ -31,3 +31,23 @@ if __name__ == "__main__":
     book_text = get_book(url)
     if book_text:
         print(book_text[:1000])  # Print first 1000 characters
+
+#Perform some exploratory data analysis on this data using regex
+#Count number of times "the" is appeared in the book
+
+exp_da = len(re.findall(r'the', book_text))
+exp_data_analysis = "===Exploratory Data Analysis==="
+print(exp_data_analysis)
+print(exp_da)
+
+#Replace "i" with "I"
+#book_text =  re.sub(r'\si\s', " I ", book_text)
+#replace_i_with_I = "===Replace i with I==="
+#print(replace_i_with_I)
+#print(book_text)
+
+#find all occurance of text in the format "abc--xyz"
+foc = re.findall(r'[a-zA-Z0-9]*--[a-zA-Z0-9]*', book_text)
+foct = "===Find Occurences==="
+print(foct)
+print(foc)
