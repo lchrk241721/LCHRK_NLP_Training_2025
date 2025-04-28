@@ -95,7 +95,7 @@ pip install re
 - **Exploratory Analysis**
 - **Finding Occurences**
 ###### Sample Output 2
-![Exploratory Analysis and Finding Occurences Output Sample]()
+![Exploratory Analysis and Finding Occurences Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/regex-extract-data-from-ebook-expl-analysis-finding-occurences-output.png)
 
 #### String Handling
 ##### Required Libraries
