@@ -13,13 +13,23 @@ pip install nltk
 
 ### SpaCy
 SpaCy is recently a trending library, as it comes with the added 
-flavors of a deep learning framework. 
+flavors of a deep learning framework.
+#### Syntax
+```python
+pip install spacy
+```
 
 ### TextBlob
 This is one of the data scientist’s favorite library when it 
 comes to implementing NLP tasks. It is based on both NLTK and Pattern.
+```python
+pip install textblob
+```
 
 ### CoreNLP
 It is a Python wrapper for Stanford CoreNLP. The toolkit 
 provides very robust, accurate, and optimized techniques for tagging, 
 parsing, and analyzing text in various languages.
+```python
+pip install CoreNLP
+```
