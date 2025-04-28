@@ -34,6 +34,8 @@ parsing, and analyzing text in various languages.
 pip install CoreNLP
 ```
 
-## Extracting The Data
-1 Text data collection using APIs
-2 Reading PDF file in Python
+## Tutorial 1
+### Extracting The Data
+#### Text data collection using APIs
+
+#### Reading PDF file in Python
