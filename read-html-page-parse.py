@@ -9,3 +9,12 @@ soup = BeautifulSoup(html_doc, 'html.parser')
 strhtm = soup.prettify()
 # Print few lines
 print (strhtm[:1000])
+
+print(soup.title)
+print(soup.title.string)
+print(soup.a.string)
+print(soup.b.string)
+
+for x in soup.find_all('a'): print(x.string)
+
+for x in soup.find_all('p'): print(x.text)
