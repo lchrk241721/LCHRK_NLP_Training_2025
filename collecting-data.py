@@ -17,7 +17,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
  # Query you want to pull the data.
-query = "failedtechgeek"
+query = "xyzabc"
 
 # Fetching tweets
 Tweets = api.search_tweets(query, count = 10,lang='en', exclude='retweets',tweet_mode='extended')
