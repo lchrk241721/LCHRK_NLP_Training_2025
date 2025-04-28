@@ -82,9 +82,9 @@ pip install bs4
 
 #### Regular Expressions
 ##### Required Libraries
-****
+**re**
 ```python
-
+pip install re
 ```
 ###### Sample Output
 ![Regular Expressions Output Sample]()
