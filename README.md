@@ -80,7 +80,7 @@ pip install bs4
 ###### Sample Output
 ![Read HTML Page Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/read-html-page-parse-output.png)
 
-#### Regular Expressions Basic Example
+#### Regular Expressions -> Basic Example
 ##### Required Libraries
 **re**
 ```python
@@ -88,6 +88,10 @@ pip install re
 ```
 ###### Sample Output
 ![Regular Expressions Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/regex-example-output.png)
+
+#### Regular Expressions -> Extract Data From EBook
+###### Sample Output
+![RegEx Extract Data From Ebook Output Sample]()
 
 #### String Handling
 ##### Required Libraries
