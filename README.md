@@ -38,11 +38,10 @@ pip install CoreNLP
 ### Extracting The Data
 #### Text data collection using APIs
 ##### Required Libraries
-**bold** Tweepy **bold**
+**Tweepy**
 ```python
 pip install tweepy
 ```
-**bold** Tweepy **bold**
-
+**Tweepy** works only with V2 API(paid version) of X platform. So, check it once before running this tutorial.
 
 #### Reading PDF file in Python
