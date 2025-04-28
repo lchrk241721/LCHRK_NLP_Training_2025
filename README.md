@@ -55,8 +55,9 @@ pip install PyPDF2
 
 #### Reading Word Document
 ##### Required Libraries
-**docx**
+**python-docx**
 ```python
-~~pip install docx~~
 pip install python-docx
 ```
+###### Sample Output
+![Read Word Document Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/read-word-document-output.png)
