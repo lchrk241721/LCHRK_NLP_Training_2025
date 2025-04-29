@@ -13,3 +13,5 @@ for para in doc.paragraphs:
     docu += para.text
 #to see the output call docu
 print(docu)
+#keep window open & closes only if user press enter button
+input("\nPress Enter to exit...")
