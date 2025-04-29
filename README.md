@@ -145,4 +145,14 @@ pip install ipywidgets
 3. Run:
    ```bash
    ./read-pdf-file.exe  # Windows
-   ``` 
+   ```
+
+
+---
+
+### **Notes**
+- **Dependencies**: Ensure all dependencies are correctly specified in `requirements.txt`. PyInstaller bundles them, but missing ones will cause runtime errors.
+- **Anti-Virus False Positives**: Some antivirus tools may flag PyInstaller binaries. Consider adding a note about this in your README.
+- **Debugging**: If the binary fails, run it in CMD to see errors or use `--debug` with PyInstaller.
+
+This approach lets users run your NLP tutorial without installing Python or dependencies. Let me know if you'd like help with automation (e.g., GitHub Actions) or multi-platform support!
