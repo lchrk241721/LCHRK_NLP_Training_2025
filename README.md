@@ -137,3 +137,12 @@ pip install ipywidgets
 - [ ] **Exploratory Data Analysis**
 
 - [ ] **End-to-End Processing Pipeline**
+
+
+## Download and Run
+1. Download the latest binary from [Releases](https://github.com/lchrk241721/repo/releases).
+2. Open CMD/Terminal and navigate to the downloaded file.
+3. Run:
+   ```bash
+   ./read-pdf-file.exe  # Windows
+   ``` 
