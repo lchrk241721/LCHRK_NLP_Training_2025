@@ -35,8 +35,8 @@ pip install CoreNLP
 ```
 
 ## Tutorial 1
-### Extracting The Data - [x]
-#### Text data collection using APIs - [x]
+### Extracting The Data
+- [x]**Text data collection using APIs**
 ##### Required Libraries
 **Tweepy**
 ```python
