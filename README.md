@@ -145,6 +145,9 @@ pip install ipywidgets
 3. Run:
 ```bash
     ./read-pdf-file.exe  # Windows
+    
+```
+```bash
     ./read-word-document.exe # Windows
 ```
 
