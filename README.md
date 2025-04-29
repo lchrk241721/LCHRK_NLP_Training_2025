@@ -150,6 +150,9 @@ pip install ipywidgets
 ```bash
     ./read-word-document.exe # Windows
 ```
+```bash
+    ./read-json.exe # Windows
+```
 
 
 ---
