@@ -1,0 +1,5 @@
+pip install nltk
+pip install spacy
+pip install textblob
+pip install CoreNLP
+pip install PyPDF2

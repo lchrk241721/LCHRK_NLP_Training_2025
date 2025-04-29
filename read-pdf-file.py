@@ -22,3 +22,5 @@ print(text)
 
 #closing the pdf file
 pdf.close() 
+#keep window open & closes only if user press enter button
+input("\nPress Enter to exit...")
