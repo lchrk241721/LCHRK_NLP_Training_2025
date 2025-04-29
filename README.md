@@ -116,3 +116,24 @@ pip install ipywidgets
 ```
 ###### Sample Output
 ![Web Scraping Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/web-scraping-output.png)
+## Tutorial 2
+### Exploring & Processing Text Data
+#### Lowercasing
+
+#### Punctuation Removal
+
+#### Stop Words Removal
+
+#### Text Standardization
+
+#### Spelling Correction
+
+#### Tokenization
+
+#### Stemming
+
+#### Lemmatization
+
+#### Exploratory Data Analysis
+
+#### End-to-End Processing Pipeline
