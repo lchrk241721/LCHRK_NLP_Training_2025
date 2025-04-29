@@ -62,7 +62,7 @@ pip install python-docx
 ###### Sample Output
 ![Read Word Document Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/read-word-document-output.png)
 
-#### Reading JSON Object - [x]
+- [x] **Reading JSON Object**
 ##### Required Libraries
 **JSON**
 ```python
@@ -71,7 +71,7 @@ pip install json
 ###### Sample Output
 ![Read JSON Object Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/read-json-output.png)
 
-#### Reading HTML Page & Parsing - [x]
+- [x] **Reading HTML Page & Parsing**
 ##### Required Libraries
 **BS4**
 ```python
@@ -80,7 +80,7 @@ pip install bs4
 ###### Sample Output
 ![Read HTML Page Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/read-html-page-parse-output.png)
 
-#### Regular Expressions -> Basic Example - [x]
+- [x] **Regular Expressions -> Basic Example**
 ##### Required Libraries
 **re**
 ```python
@@ -89,20 +89,20 @@ pip install re
 ###### Sample Output
 ![Regular Expressions Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/regex-example-output.png)
 
-#### Regular Expressions -> Extract Data From EBook - [x]
+- [x] **Regular Expressions -> Extract Data From EBook**
 ###### Sample Output 1
 ![RegEx Extract Data From Ebook Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/regex-extract-data-from-ebook-output.png)
-- **Exploratory Analysis**
-- **Finding Occurences**
+- [x] **Exploratory Analysis**
+- [x] **Finding Occurences**
 ###### Sample Output 2
 ![Exploratory Analysis and Finding Occurences Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/regex-extract-data-from-ebook-expl-analysis-finding-occurences-output.png)
 
-#### String Handling - [x]
+- [x] **String Handling**
 
 ###### Sample Output
 ![String Handling Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/string-handling-output.png)
 
-#### Web Scraping - [x]
+- [x] **Web Scraping**
 ##### Required Libraries
 **bs4**
 ```python
@@ -115,7 +115,6 @@ pip install requests
 pip install ipywidgets
 ```
 ###### Sample Output
-- [x] Data
 ![Web Scraping Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/web-scraping-output.png)
 ## Tutorial 2
 ### Exploring & Processing Text Data
