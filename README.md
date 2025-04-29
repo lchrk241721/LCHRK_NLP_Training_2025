@@ -104,9 +104,12 @@ pip install re
 
 #### Web Scraping
 ##### Required Libraries
-****
+**bs4**
 ```python
-
+pip install bs4
+```
+```python
+pip install requests
 ```
 ###### Sample Output
 ![Web Scraping Output Sample]()
