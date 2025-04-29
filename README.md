@@ -111,5 +111,8 @@ pip install bs4
 ```python
 pip install requests
 ```
+```python
+pip install ipywidgets
+```
 ###### Sample Output
-![Web Scraping Output Sample]()
+![Web Scraping Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/web-scraping-output.png)
