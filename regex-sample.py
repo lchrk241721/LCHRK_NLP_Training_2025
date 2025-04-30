@@ -20,4 +20,5 @@ replace_email = "===replace email==="
 print(replace_email)
 print(new_email_address)
 
-
+#keep window open & closes only if user press enter button
+input("\nPress Enter to exit...")

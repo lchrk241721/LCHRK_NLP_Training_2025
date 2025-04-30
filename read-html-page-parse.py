@@ -18,3 +18,6 @@ print(soup.b.string)
 for x in soup.find_all('a'): print(x.string)
 
 for x in soup.find_all('p'): print(x.text)
+
+#keep window open & closes only if user press enter button
+input("\nPress Enter to exit...")
