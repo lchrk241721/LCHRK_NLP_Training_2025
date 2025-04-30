@@ -143,10 +143,10 @@ pip install ipywidgets
 
 
 ## Download and Run
-1. Download the latest binary from [Releases](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/releases).
+1. Download the latest binary(ies) from [Releases](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/releases).
 2. Open CMD/Terminal and navigate to the downloaded file.
 3. Run:
-```bash
+```cmd
     ./read-pdf-file.exe  # Windows
     
 ```
