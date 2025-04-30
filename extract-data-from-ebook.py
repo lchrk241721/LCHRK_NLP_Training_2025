@@ -1,6 +1,8 @@
 import re
 import requests
 
+please_wait = "===Extracting Ebook Data Is In Progress. Please Wait A While!...==="
+print(please_wait)
 def get_book(url):
     try:
         response = requests.get(url)
@@ -40,14 +42,11 @@ exp_data_analysis = "===Exploratory Data Analysis==="
 print(exp_data_analysis)
 print(exp_da)
 
-#Replace "i" with "I"
-#book_text =  re.sub(r'\si\s', " I ", book_text)
-#replace_i_with_I = "===Replace i with I==="
-#print(replace_i_with_I)
-#print(book_text)
-
 #find all occurance of text in the format "abc--xyz"
 foc = re.findall(r'[a-zA-Z0-9]*--[a-zA-Z0-9]*', book_text)
 foct = "===Find Occurences==="
 print(foct)
 print(foc)
+
+#keep window open & closes only if user press enter button
+input("\nPress Enter to exit...")
