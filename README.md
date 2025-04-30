@@ -156,6 +156,12 @@ pip install ipywidgets
 ```bash
     ./read-json.exe # Windows
 ```
+```bash
+    ./read-html-page-parse.exe
+```
+```bash
+    ./regex-sample.exe
+```
 
 
 ---
