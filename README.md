@@ -161,6 +161,15 @@ pip install ipywidgets
 ```bash
     ./regex-sample.exe # Windows
 ```
+```bash
+    ./extract-data-from-ebook.exe # Windows
+```
+```bash
+    ./string-handling.exe # Windows
+```
+```bash
+    ./web-scraping.exe # Windows
+```
 
 
 ---
