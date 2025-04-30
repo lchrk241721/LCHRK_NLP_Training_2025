@@ -121,7 +121,7 @@ pip install ipywidgets
 - [x] **Lowercasing**
 
 ###### Sample Output
-![Convert Text Data To LowerCase Output Sample]()
+![Convert Text Data To LowerCase Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/convert-text-data-to-lowcase-output.png)
 
 - [ ] **Punctuation Removal**
 
