@@ -7,3 +7,4 @@ pip install python-docx
 pip install json
 pip install bs4
 pip install re
+pip install ipywidgets

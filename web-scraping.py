@@ -110,3 +110,6 @@ if imdb_df is not None and not imdb_df.empty:
             print(f"Failed to save file: {e}")
 else:
     print("Scraping failed. No data was collected.")
+
+#keep window open & closes only if user press enter button
+input("\nPress Enter to exit...")

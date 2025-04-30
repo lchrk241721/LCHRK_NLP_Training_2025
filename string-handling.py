@@ -29,3 +29,6 @@ var="I am learning NLP"
 f= "learn"
 print(srch_substring_in_str)
 print(var.find(f))
+
+#keep window open & closes only if user press enter button
+input("\nPress Enter to exit...")
