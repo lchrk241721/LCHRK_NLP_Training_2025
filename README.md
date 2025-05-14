@@ -123,9 +123,17 @@ pip install ipywidgets
 ###### Sample Output
 ![Convert Text Data To LowerCase Output Sample](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/convert-text-data-to-lowcase-output.png)
 
-- [ ] **Punctuation Removal**
+- [x] **Punctuation Removal**
 
-- [ ] **Stop Words Removal**
+###### Sample Output
+
+- [x] **Stop Words Removal**
+##### Required Libraries
+**NLTK**
+```python
+pip install nltk
+```
+###### Sample Output
 
 - [ ] **Text Standardization**
 
