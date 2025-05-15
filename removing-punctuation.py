@@ -19,3 +19,5 @@ for c in string.punctuation:
     r = r.replace(c,"")
 print(blanks3)
 print(r)
+#this code will keep window open
+input("\nPress Enter to exit...")

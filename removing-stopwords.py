@@ -13,3 +13,5 @@ stop = stopwords.words('english')
 df['Tranquil Testament -> Daily Bible Study'] = df['Tranquil Testament -> Daily Bible Study'].apply(lambda x: "".join(x for x in x.split() if x not in stop))
 print(blanks2)
 print(df['Tranquil Testament -> Daily Bible Study'])
+#this code will keep window open
+input("\nPress Enter to exit...")
