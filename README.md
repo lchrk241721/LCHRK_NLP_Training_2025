@@ -180,6 +180,13 @@ pip install nltk
 ```bash
     ./web-scraping.exe # Windows
 ```
+```bash
+    ./convert-text-data-to-lowercase.exe # Windows
+```
+```bash
+    ./removing-punctuation.exe # Windows
+```
+
 
 
 ---
