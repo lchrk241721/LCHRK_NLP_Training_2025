@@ -137,9 +137,22 @@ pip install nltk
 ###### Sample Output
 ![Stopwords Removal Output](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/removing-stopwords-output.png)
 
-- [ ] **Text Standardization**
+- [x] **Text Standardization**
+###### Sample Output
+![Text Standardization Output]()
 
-- [ ] **Spelling Correction**
+- [x] **Spelling Correction**
+##### Required Libraries
+**textblob**
+```python
+pip install textblob
+```
+**autocorrect**
+```python
+pip install autocorrect
+```
+###### Sample Output
+![Spelling Correction Output]()
 
 - [ ] **Tokenization**
 
