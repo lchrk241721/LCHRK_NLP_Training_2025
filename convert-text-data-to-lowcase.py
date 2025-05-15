@@ -14,3 +14,5 @@ df['tweet']
 ex_l_func_t_data = "=== Execute Lower Function On The Text Data ==="
 print(ex_l_func_t_data)
 print(df)
+#this code will keep window open
+input("\nPress Enter to exit...")
