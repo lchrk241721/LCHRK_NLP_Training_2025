@@ -22,4 +22,6 @@ print(df2)
 print(acsp)
 # print spelling corrected data with autocorrection
 print(spell("I'm not slepy, I'm just tyred."))
+#this code will keep window open
+input("\nPress Enter to exit...")
 

@@ -139,7 +139,7 @@ pip install nltk
 
 - [x] **Text Standardization**
 ###### Sample Output
-![Text Standardization Output]()
+![Text Standardization Output](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/standardize-text-output.png)
 
 - [x] **Spelling Correction**
 ##### Required Libraries
@@ -152,7 +152,7 @@ pip install textblob
 pip install autocorrect
 ```
 ###### Sample Output
-![Spelling Correction Output]()
+![Spelling Correction Output](https://github.com/lchrk241721/LCHRK_NLP_Training_2025/blob/main/Results%20Area/spelling-correction-output.png)
 
 - [ ] **Tokenization**
 

@@ -14,3 +14,5 @@ def text_std(input_text):
     return new_text
 output = text_std("I like nlp it's ur choice")
 print(output)
+#this code will keep window open
+input("\nPress Enter to exit...")
