@@ -1,3 +1,5 @@
 /build/removing-stopwords
 dist/removing-stopwords.exe
 /build
+dist/spelling-correction.exe
+spelling-correction.spec
